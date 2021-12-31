@@ -22,7 +22,7 @@ Edit this file by filling your team composition here:
 
 - [ ] _Student full name_ | _Github username_ | **Scrum Master**
 - [ ] _Student full name_ | _Gihub username_
-- [ ] _Student full name_ | _Gihub username_
+- [x] _Student full name_ | _Gihub username_
 
 ## Technologies
 
