@@ -5,16 +5,16 @@
 Welcome to Final Projects. This repository will serve as the starter for your final full-stack project.
 Before starting, make sure:
 
-- [ ] You have chosen your teammates for the project
-- [ ] You have created an organisation and all your teammates are members
+- [x] You have chosen your teammates for the project
+- [x] You have created an organisation and all your teammates are members
 
 Make sure that you have already created your own **organisation** with your teammates
 
 ## Get Started
 
-- [ ] Fork the repository under your organisation
-- [ ] Each member should clone the forked repository on his local machine
-- [ ] Choose one of the projects that has not been reserved
+- [x] Fork the repository under your organisation
+- [x] Each member should clone the forked repository on his local machine
+- [x] Choose one of the projects that has not been reserved
 
 ## Team composition
 
@@ -34,7 +34,7 @@ In you assignment, you have to use all the following Technologies
 
 Choose one of these Technologies for your DBMS and your ORM
 
-- [ ] MongoDB + Mongoose
+- [x] MongoDB + Mongoose
 - [ ] MySQL + Sequelize
 
 Feel free to use any of these technologies
